@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "501012928429",
+    "firebase_url": "https://movieku-aff8f.firebaseio.com",
+    "project_id": "movieku-aff8f",
+    "storage_bucket": "movieku-aff8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501012928429:android:cce98b4cf75ec5d0173324",
+        "android_client_info": {
+          "package_name": "com.example.movieku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501012928429-og7tp75e05eh0mab94c21c221k79iqrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrXiYP3Wz-oEXCROAMFcfs3x1CMd9OxNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501012928429-og7tp75e05eh0mab94c21c221k79iqrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
